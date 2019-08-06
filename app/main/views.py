@@ -59,7 +59,38 @@ def new_pitch(id):
     if category is None:
         abort(404)
 
-    if form.validate_on_submit():
+    if for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    m.validate_on_submit():
         content = form.content.data
         new_pitch= Pitch(content=content,category= category.id,user_id=current_user.id)
         new_pitch.save_pitch()
