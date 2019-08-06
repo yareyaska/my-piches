@@ -7,7 +7,7 @@ This is an application that enables a user to post pitches and view other users'
 ## Setup/Installation Requirements
 
 ### Prerequisites
-* python3.7
+* python3.6
 * pip
 * Virtual environment(virtualenv)
 * Flask-Mail
@@ -16,13 +16,13 @@ This is an application that enables a user to post pitches and view other users'
 ## Cloning and running
 Clone the application using git clone(this copies the app onto your device). In your terminal:
 
-  ```  $ git clone https://github.com/maurinesinami/pitch/```
+  ```  $ git clone https://github.com/yareyaska/piches/```
   
   ```  $ cd pitch```
 
 ## Creating the virtual environment
 
-  ```  $ python3.7 -m venv --without-pip virtual```
+  ```  $ python3.6 -m venv --without-pip virtual```
   
   ```  $ source virtual/bin/env```
   
@@ -38,14 +38,8 @@ Clone the application using git clone(this copies the app onto your device). In 
   
   ```  $ python3.6 -m pip install Flask-Mail```
 
-
-## Testing the Application
-To run the tests for the class files:
-
-  ```  $ python3.7 manage.py test```
-
 ## Technologies Used
-* Python 3.7
+* Python 3.6
 * Flask
 
 ## Behaviour driven development/ Specifications
@@ -60,7 +54,6 @@ To run the tests for the class files:
 ## Support and contact details
 Feel free to reach out to the developer at:
 
-* Mobile: 0714828944
-* Email: maurine.sinami@gmail.com
+* Email: uraharahussein@gmail.com
 ## License
-MIT License Copyright (c) {2019} Maurine Sinami
+MIT License Copyright (c) {2019} yussuf hussein.
